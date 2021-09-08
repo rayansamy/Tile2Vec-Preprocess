@@ -7,6 +7,4 @@ pip install tqdm matplotlib numpy opencv-python
 ```
 
 # Usage :
-```
-python -m transform --input_folder "<your-image-folder-path>" --output_folder "<folder-to-store-tiles>"
-```
+Use the notebook to see examples on how to generate each type of dataset.
